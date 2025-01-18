@@ -27,6 +27,9 @@ The primary objectives are to:
 
 
 ## Database Schema Setup**
+
+![CHEESE!](library_ERD.png)
+
 -- This script defines the database schema for a Library Management System.
 -- It includes tables for branches, employees, members, books, issued books, and returned books.
 
