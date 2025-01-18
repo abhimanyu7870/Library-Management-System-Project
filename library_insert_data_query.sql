@@ -1,4 +1,6 @@
 
+-- ''''''''''''''''''''''''''''''''''''''Insertion of Data into each tables'''''''''''''''''''''''''''''''
+
 -- Insert values into each member table
 INSERT INTO members(member_id, member_name, member_address, reg_date) 
 VALUES

@@ -1,6 +1,9 @@
--- Library Management System Project
+-- ''''''''''''''''''''''''Library Management System Project''''''''''''''''''''''''''
 
--- CREATE DATABASE library_management;
+-- '''''''''''''''''''''''''''Database Schema Setup'''''''''''''''''''''''''''''''''''''''''''
+         -- CREATE DATABASE library_management
+         -- Created tables for Branch, Employee, Members, Books, IssueStatus, ReturnStatus. Each tables consist of relevant columns and relationships between them.
+
 
 -- Create table "Branch"
 drop table if exists branch;
